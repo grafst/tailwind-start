@@ -9,5 +9,5 @@
 6. open live server: CMD+L, CMD+O
 
 ## Tricks
-[raycast extension](https://www.raycast.com/vimtor/tailwindcss)
-insert font: CMD+SHIFT+P then type 'google font', then use class="font-['Font_Name']"
+- [raycast extension](https://www.raycast.com/vimtor/tailwindcss)
+- insert font: CMD+SHIFT+P then type 'google font', then use class="font-['Font_Name']"
