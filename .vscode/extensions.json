@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "stivo.tailwind-fold",
+        "zarifprogrammer.tailwind-snippets",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "github.copilot",
+        "aaron-bond.better-comments",
+        "chouzz.vscode-better-align",
+        "lior-chamla.google-fonts",
+    ]
+}
