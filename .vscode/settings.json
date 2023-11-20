@@ -2,4 +2,37 @@
     "workbench.preferredDarkColorTheme": "Solarized Dark+",
     "workbench.preferredLightColorTheme": "Solarized Light+",
     "window.autoDetectColorScheme": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 200,
+    "workbench.colorTheme": "Solarized Light+",
+    "cSpell.words": [
+        "Quickstart",
+        "raycast",
+        "tailwindcss",
+        "visualstudiocode"
+    ],
+    "editor.defaultFoldingRangeProvider": "zokugun.explicit-folding",
+    "editor.foldingStrategy": "auto",
+
+    "explicitFolding.rules": {
+
+        "*":{
+            "begin": "<head>",
+            "end": "</head>"
+        },
+    },
+    "[html]": {
+        "explicitFolding.rules": [
+            {
+                "begin": "<head>",
+                "end": "</head>"
+            },
+        ]
+    },
+    "explicitFolding.autoFold": "1",
+    "headwind.runOnSave": false,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+"gitlens.blame.compact": false,
+"gitlens.currentLine.enabled": true
 }
