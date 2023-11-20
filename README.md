@@ -3,7 +3,7 @@
 0. `brew install npm visualstudiocode`
 1. `git clone https://github.com/blemli/tailwind-start && cd tailwind-start`
 2. install tailwind: `npm i`
-3. `code . && npx tailwindcss -i ./raw.css -o ./style.css --watch && open index.html`
+3. `code . && npx tailwindcss -i ./raw.css -o ./style.css --watch`
 4. install recommended extensions
 5. open index.html CMD+P 'index'
 6. open live server: CMD+L, CMD+O
