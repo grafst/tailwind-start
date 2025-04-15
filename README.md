@@ -11,3 +11,4 @@
 ## Tricks
 - [raycast extension](https://www.raycast.com/vimtor/tailwindcss)
 - insert font: CMD+SHIFT+P then type 'google font', then use class="font-['Font_Name']"
+- Hide/Show Classes: CTRL+ALT+A
